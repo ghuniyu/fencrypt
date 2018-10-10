@@ -20,10 +20,10 @@ def enc(fn):
 
 
 def hello():
-    print("""flocker is Simple File Locker using exclusive or method to encrypt file by extension
+    print("""fencrypt is Simple File Locker using exclusive or method to encrypt file by extension
     usage :
-    \tencrypt: flocker e ".extension" "password"
-    \tdecrypt: flocker d ".extension" "password" """)
+    \tencrypt: fencrypt e ".extension" "password"
+    \tdecrypt: fencrypt d ".extension" "password" """)
 
 
 if __name__ == '__main__':
