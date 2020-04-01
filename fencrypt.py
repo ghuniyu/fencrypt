@@ -1,6 +1,6 @@
 #
 # Simple File Locker using Exclusive or writen in Python 3
-# by : https://github.com/iamnubs
+# by : https://github.com/ghuniyu
 #
 
 import os
